@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # roda diariamente
   workflow_dispatch:
 
 jobs:
@@ -24,3 +24,6 @@ jobs:
         with:
           name: snake-animation
           path: ./dist/snake.svg
+
+
+fix: corrige caminho de saída do Snake
