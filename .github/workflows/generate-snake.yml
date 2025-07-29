@@ -24,6 +24,3 @@ jobs:
         with:
           name: snake-animation
           path: ./dist/snake.svg
-
-
-fix: corrige caminho de saída do Snake
