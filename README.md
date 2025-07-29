@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Thomas!</h1>
+https://github.com/thbaute25/thbaute25<h1 align="center">👋 Olá, eu sou o Thomas!</h1>
 
 <p align="center">Estudante de ADS | Estagiário de Digital, Data & AI na Alvarez & Marsal | Apaixonado por IA, dados e soluções criativas 🚀</p>
 
